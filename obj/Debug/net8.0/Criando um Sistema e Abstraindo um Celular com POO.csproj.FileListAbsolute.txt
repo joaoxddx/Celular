@@ -1,0 +1,14 @@
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\Criando um Sistema e Abstraindo um Celular com POO\bin\Debug\net8.0\Criando um Sistema e Abstraindo um Celular com POO.exe
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\Criando um Sistema e Abstraindo um Celular com POO\bin\Debug\net8.0\Criando um Sistema e Abstraindo um Celular com POO.deps.json
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\Criando um Sistema e Abstraindo um Celular com POO\bin\Debug\net8.0\Criando um Sistema e Abstraindo um Celular com POO.runtimeconfig.json
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\Criando um Sistema e Abstraindo um Celular com POO\bin\Debug\net8.0\Criando um Sistema e Abstraindo um Celular com POO.dll
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\Criando um Sistema e Abstraindo um Celular com POO\bin\Debug\net8.0\Criando um Sistema e Abstraindo um Celular com POO.pdb
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\Criando um Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\Criando um Sistema e Abstraindo um Celular com POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\Criando um Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\Criando um Sistema e Abstraindo um Celular com POO.AssemblyInfoInputs.cache
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\Criando um Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\Criando um Sistema e Abstraindo um Celular com POO.AssemblyInfo.cs
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\Criando um Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\Criando um Sistema e Abstraindo um Celular com POO.csproj.CoreCompileInputs.cache
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\Criando um Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\Criando um Sistema e Abstraindo um Celular com POO.dll
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\Criando um Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\refint\Criando um Sistema e Abstraindo um Celular com POO.dll
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\Criando um Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\Criando um Sistema e Abstraindo um Celular com POO.pdb
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\Criando um Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\Criando um Sistema e Abstraindo um Celular com POO.genruntimeconfig.cache
+C:\Users\jgome\OneDrive\Documentos\DIO.me\Desafio C#\Criando um Sistema e Abstraindo um Celular com POO\obj\Debug\net8.0\ref\Criando um Sistema e Abstraindo um Celular com POO.dll
